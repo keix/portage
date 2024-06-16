@@ -1,0 +1,2 @@
+# package.use
+=sys-kernel/installkernel-38 dracut

@@ -1,0 +1,181 @@
+dev-build/gyp python_single_target_python3_11
+
+# required by dev-build/gyp-20200512145953::gentoo[python_single_target_python3_11]
+# required by gyp (argument)
+>=dev-python/setuptools-70.0.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-text-3.12.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/more-itertools-10.2.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/ordered-set-4.1.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/packaging-24.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/platformdirs-4.2.2 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/wheel-0.43.0 python_targets_python3_11
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-build/gyp-20200512145953::gentoo[python_single_target_python3_11]
+# required by gyp (argument)
+>=dev-python/setuptools-scm-8.1.0 python_targets_python3_11
+# required by dev-python/packaging-24.0::gentoo
+# required by dev-python/wheel-0.43.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/gpep517-16 python_targets_python3_11
+# required by dev-python/gpep517-16::gentoo
+# required by dev-python/backports-tarfile-1.2.0::gentoo
+# required by dev-python/jaraco-context-5.3.0::gentoo[python_targets_python3_11,-python_targets_python3_10]
+# required by dev-python/jaraco-text-3.12.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/installer-0.7.0 python_targets_python3_11
+# required by dev-python/ordered-set-4.1.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/flit-core-3.9.0 python_targets_python3_11
+# required by dev-python/jaraco-text-3.12.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-context-5.3.0 python_targets_python3_11
+# required by dev-python/jaraco-text-3.12.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-functools-4.0.1 python_targets_python3_11
+# required by dev-python/jaraco-context-5.3.0::gentoo[python_targets_python3_11,-python_targets_python3_10]
+# required by dev-python/jaraco-text-3.12.0::gentoo
+# required by dev-python/setuptools-70.0.0::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+# required by dev-python/pluggy-1.5.0::gentoo
+# required by dev-python/hatchling-1.24.2::gentoo[-test]
+# required by dev-python/pygments-2.18.0::gentoo
+# required by dev-util/gtk-doc-1.33.2-r1::gentoo[python_single_target_python3_12]
+# required by net-misc/networkmanager-1.46.0-r1::gentoo[gtk-doc]
+# required by kde-frameworks/networkmanager-qt-5.116.0::gentoo
+# required by kde-plasma/powerdevil-5.27.11::gentoo[wireless]
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/backports-tarfile-1.2.0 python_targets_python3_11
+
+# required by app-i18n/mozc-2.28.5029.102::gentoo
+# required by mozc (argument)
+>=dev-python/six-1.16.0-r1 python_targets_python3_11
+

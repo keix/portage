@@ -1,0 +1,3 @@
+# required by media-gfx/krita-5.1.5::gentoo[python_single_target_python3_12]
+# required by krita (argument)
+>=dev-python/PyQt5-5.15.10-r1 declarative

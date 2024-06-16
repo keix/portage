@@ -1,0 +1,32 @@
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by plasma-meta (argument)
+>=kde-plasma/kwin-5.27.11-r1 lock
+# required by kde-plasma/libplasma-5.116.0::gentoo
+# required by kde-plasma/kdeplasma-addons-5.27.11::gentoo
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by plasma-meta (argument)
+>=kde-frameworks/kconfig-5.116.0 qml
+# required by kde-plasma/sddm-kcm-5.27.11::gentoo
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo[sddm,display-manager]
+# required by plasma-meta (argument)
+>=kde-frameworks/kitemmodels-5.116.0 qml
+# required by kde-plasma/plasma-workspace-5.27.11.1-r1::gentoo
+# required by kde-plasma/plasma-desktop-5.27.11::gentoo
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by plasma-meta (argument)
+>=kde-frameworks/prison-5.116.0 qml
+# required by kde-frameworks/qqc2-desktop-style-5.116.1::gentoo
+# required by kde-plasma/plasma-desktop-5.27.11::gentoo
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by plasma-meta (argument)
+>=kde-frameworks/sonnet-5.116.0 qml
+# required by kde-plasma/kwin-5.27.11-r1::gentoo
+# required by kde-plasma/plasma-desktop-5.27.11::gentoo
+# required by kde-plasma/plasma-meta-5.27.11-r1::gentoo
+# required by plasma-meta (argument)
+>=media-libs/mesa-24.0.9 wayland
+
+# required by kde-apps/spectacle-23.08.5::gentoo
+# required by spectacle (argument)
+>=dev-qt/qtmultimedia-5.15.14:5 qml
+
